@@ -31,7 +31,9 @@ github_username:  jekyll
 
 category_list: [ development ]
 
-discus-identifier: https-chojaechun-github-io
+disqus:
+  shortname: https-chojaechun-github-io
+
 
 # Build settings
 theme: minima
