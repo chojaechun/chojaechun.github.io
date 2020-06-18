@@ -7,3 +7,8 @@ comments: true
 ---
 
 Eng1
+
+
+{%- if site.disqus.shortname -%}
+  {%- include disqus.html -%}
+{%- endif -%}
