@@ -6,9 +6,7 @@ categories:  [Development]
 comments: true
 ---
 
-Eng1
+En2
 
 
-{%- if site.disqus.shortname -%}
-  {%- include disqus.html -%}
-{%- endif -%}
+
