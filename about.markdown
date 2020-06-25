@@ -22,9 +22,9 @@ permalink: /about/
 <br>
   <div> <h2> 2017. 7 ~ 2018. 4 </h2> </div>
 
-    Spring MVC 기반 Dashboard, Simulator Front end 개발 <br>
-     Front end Part : ibreaders - ibsheet <br>
-     Front Language : java script - Jquery, Json Rpc <br>
+   Spring MVC 기반 Dashboard, Simulator Front end 개발 <br>
+    Front end Part : ibreaders - ibsheet <br>
+    Front Language : java script - Jquery, Json Rpc <br>
 
 <br>
 <br>
