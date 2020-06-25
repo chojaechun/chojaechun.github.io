@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 
+<html>
 `2016. 12 ~ 2018. 12`
 인도네시아 IPC 터미널 대상 Auto Gate System, 
 JKT T3 터미널 GEF Version Major Upgrade, VGM SOLAS Function 추가 개발 및 프로젝트 수행
@@ -37,3 +38,10 @@ BNCT Terminal VMT 솔루션 개발
 Common : 
 형상관리 tool : SVN, SERENA 
 이슈관리 tool : BLUE PRINT
+
+<!DOCTYPE html>
+<html>
+  <body>
+   <div> test </div>
+  </body>
+</html>
