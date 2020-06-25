@@ -20,7 +20,7 @@
 
 title: Cho Blog
 email: jaechun0208@naver.com
-description: >- 안녕하세요. 조재천 블로그입니다.
+description: 안녕하세요. 조재천 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
