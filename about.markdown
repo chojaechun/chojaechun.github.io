@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<br>2016. 12 ~ 2018. 12</br>
-<br>인도네시아 IPC 터미널 대상 Auto Gate System, </br>
-<br>JKT T3 터미널 GEF Version Major Upgrade, VGM SOLAS Function 추가 개발 및 프로젝트 수행</br>
+2016. 12 ~ 2018. 12
+인도네시아 IPC 터미널 대상 Auto Gate System, 
+JKT T3 터미널 GEF Version Major Upgrade, VGM SOLAS Function 추가 개발 및 프로젝트 수행
  Language : JAVA
   - Spring : version 3.2.9
   - Hessian, JSON Protocol 주로 사용 ( API 연동 )
