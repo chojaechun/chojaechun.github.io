@@ -18,7 +18,7 @@ permalink: /about/
      - JAVA version : 1.6, 1.8 <br>
      - SQL : Oracle, Ibatis Sql, No Sql ( Hibernate ) <br>
              PL/SQL : Database procedure, function, trigger <br>
-     - Viewer : Eclipse RCP - 구성되어 있는 정보만 수정하였음 <br>
+     - Viewer : Eclipse RCP - 구성되어 있는 정보만 수정 <br>
 
   <br>
   <br>
