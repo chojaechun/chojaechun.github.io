@@ -36,10 +36,11 @@ permalink: /about/
       - JAVA version : 1.6, 1.8 <br>
       - SQL : Oracle, Ibatis Sql, No Sql ( Hibernate ) <br>
 
-
-    Common : <br>
-    형상관리 tool : SVN, SERENA <br>
-    이슈관리 tool : BLUE PRINT <br>
+<br>
+<br>
+   Common : <br>
+   형상관리 tool : SVN, SERENA <br>
+   이슈관리 tool : BLUE PRINT <br>
 
   </body>
 </html>
