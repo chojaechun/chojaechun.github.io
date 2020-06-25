@@ -8,7 +8,8 @@ permalink: /about/
  <body>
   <div> <h2> 2016. 12 ~ 2018. 12 </h2> </div>
     인도네시아 IPC 터미널 대상 Auto Gate System, <br>
-    JKT T3 터미널 GEF Version Major Upgrade, VGM SOLAS Function 추가 개발 및 프로젝트 수행 <br>
+    JKT T3 터미널 GEF Version Major Upgrade, <br>
+    VGM SOLAS Function 추가 개발 및 프로젝트 수행 <br>
      Language : JAVA <br>
       - Spring : version 3.2.9 <br>
       - Hessian, JSON Protocol 주로 사용 ( API 연동 ) <br>
