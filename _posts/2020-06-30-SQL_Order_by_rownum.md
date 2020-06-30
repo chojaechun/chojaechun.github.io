@@ -19,7 +19,7 @@ comments: true
   <br>    <b>Table    : TABLE_A</b>
   <br>    <b>Column   :     A,  B, CREATE_DATE</b>
   <br>    <b>Row Data : 1) TE, ST, 2020-06-29 10:00:00</b>
-  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>2) ST, TE  2020-06-29 10:00:10</b>
+  <br>&emsp;&emsp;&emsp;&emsp;&emsp; <b>2) ST, TE  2020-06-29 10:00:10</b>
 <br>    
 <br>    
 <br>    SELECT TABLE_B.A, TABLE_B.B
