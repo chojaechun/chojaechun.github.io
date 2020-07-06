@@ -2,6 +2,6 @@
 
 layout: category
 
-title: Vue.js
+title: Vue
 
 ---
